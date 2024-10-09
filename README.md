@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @kimhji
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ..
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/kimhji?pet-id=631871883970174736"
+    width="600"
+    height="200"
+  />
+</a>
