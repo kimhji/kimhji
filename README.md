@@ -28,5 +28,5 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=twin4185)](https://solved.ac/twin4185)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhji)](https://github.com/kimhji/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhji&layout=compact)](https://github.com/kimhji/github-readme-stats)
+![GitHub Stats](https://raw.githubusercontent.com/kimhji/github-stats-transparent/output/generated/languages.svg)
+![GitHub Stats](https://raw.githubusercontent.com/kimhji/github-stats-transparent/output/generated/overview.svg)
